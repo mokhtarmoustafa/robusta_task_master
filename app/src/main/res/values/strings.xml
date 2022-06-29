@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Robusta Task</string>
     <string name="home">Home</string>
+    <string name="search_hint">Type here to search</string>
+    <string name="no_data_available">No Data Available</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="description">description</string>
 </resources>
